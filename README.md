@@ -13,7 +13,7 @@ Hi, I'm Jacqueline. I'm learning to code to create data visualizations.
 <details>
 <summary>A few of my favorite things</summary>
 
-  | Rank | 3 Current Favorite Things |
+  | Rank | 3 Current Favorites |
 |-----:|---------------|
 |     1| Piano              |
 |     2| Cool, misty mornings             |
@@ -23,10 +23,9 @@ Hi, I'm Jacqueline. I'm learning to code to create data visualizations.
 
 ---
 
-- 👀 I’m interested in creating data visualizations to support my writing.
-- 🌱 I’m currently learning the basics of Python. 
--  I’m looking to collaborate on ... not sure yet! But if you know of any useful resources, please share!
-- 📫 I can be reached at jacqueline.mccrief@gmail.com
+- 👀 I’m interested in creating cool data viz stories [like this one](https://pudding.cool/2025/04/music-dna/)! <br/>
+- 🌱 I’m currently learning Python. 
+- 📫 Contact me at jacqueline.mccrief@gmail.com
 
 
 
