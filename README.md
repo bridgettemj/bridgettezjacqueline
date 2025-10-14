@@ -23,10 +23,6 @@ Hi, I'm Jacqueline. I'm learning to code to create data visualizations.
 
 ---
 
----
-  
-
-
 - 👀 I’m interested in creating data visualizations to support my writing.
 - 🌱 I’m currently learning the basics of Python. 
 -  I’m looking to collaborate on ... not sure yet! But if you know of any useful resources, please share!
