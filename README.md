@@ -8,29 +8,28 @@
 
 <!-- TO DO: Add more information to the about me section with emojis -->
 
-Hi, I'm Jacqueline. I'm teaching myself to code so I can make cool visualizations.
+Hi, I'm Jacqueline. I'm learning to code to create data visualizations.
 
 <details>
 <summary>A few of my favorite things</summary>
 
   | Rank | 3 Current Favorite Things |
 |-----:|---------------|
-|     1| Horology              |
-|     2| Documenting my friends in candid moments             |
-|     3| Park hangs               |
+|     1| Piano              |
+|     2| Cool, misty mornings             |
+|     3| Learning about fundraising in VGM               |
 
 </details>
 
 ---
-> You cannot save people, you can only love them.
-- Anaïs Nin
+
 ---
   
 
 
-- 👀 I’m interested in creating data visualizations to support my journalism and storytelling.
-- 🌱 I’m currently learning the basics of Python and Tableau. 
-- 💞️ I’m looking to collaborate on ... not sure yet! But if you know of any resources that could help me learn, please share!
+- 👀 I’m interested in creating data visualizations to support my writing.
+- 🌱 I’m currently learning the basics of Python. 
+-  I’m looking to collaborate on ... not sure yet! But if you know of any useful resources, please share!
 - 📫 I can be reached at jacqueline.mccrief@gmail.com
 
 
