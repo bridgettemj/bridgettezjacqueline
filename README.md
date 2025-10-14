@@ -25,7 +25,7 @@ Hi, I'm Jacqueline. I'm learning to code to create data visualizations.
 
 - 👀 I’m interested in creating cool data viz stories [like this one](https://pudding.cool/2025/04/music-dna/)! <br/>
 - 🌱 I’m currently learning Python. 
-- 📫 Contact me at jacqueline.mccrief@gmail.com
+
 
 
 
