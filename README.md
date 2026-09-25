@@ -8,7 +8,7 @@
 
 <!-- TO DO: Add more information to the about me section with emojis -->
 
-Hi, I'm Jacqueline. I'm learning to code to create data visualizations.
+Hi, I'm Jacqueline McCrief. I'm learning to code to create data visualizations.
 
 <details>
 <summary>A few of my favorite things</summary>
